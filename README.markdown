@@ -1,9 +1,9 @@
-90sStyle LimeChat Theme
+# 90sStyle LimeChat Theme
 
 ## Install
 
- cd ~/Library/Application Support/LimeChat/Themes
- git clone git://github.com/mephux/90sStyle.git
+  cd ~/Library/Application Support/LimeChat/Themes
+  git clone git://github.com/mephux/90sStyle.git
 
 ## What is Limechat?
 
