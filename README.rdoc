@@ -11,4 +11,4 @@ Limechat is a small IRC-client for Mac OS X, you may find it at http://limechat.
 
 == Screenshot
 
- http://github.com/mephux/90sStyle/raw/master/sample.png
+http://github.com/mephux/90sStyle/raw/master/sample.png
